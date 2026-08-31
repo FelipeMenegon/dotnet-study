@@ -1,0 +1,15 @@
+C:\DevOps\dotnet-study\Aula\bin\Debug\net10.0\Aula01.exe
+C:\DevOps\dotnet-study\Aula\bin\Debug\net10.0\Aula01.deps.json
+C:\DevOps\dotnet-study\Aula\bin\Debug\net10.0\Aula01.runtimeconfig.json
+C:\DevOps\dotnet-study\Aula\bin\Debug\net10.0\Aula01.dll
+C:\DevOps\dotnet-study\Aula\bin\Debug\net10.0\Aula01.pdb
+C:\DevOps\dotnet-study\Aula\obj\Debug\net10.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevOps\dotnet-study\Aula\obj\Debug\net10.0\Aula01.AssemblyInfoInputs.cache
+C:\DevOps\dotnet-study\Aula\obj\Debug\net10.0\Aula01.AssemblyInfo.cs
+C:\DevOps\dotnet-study\Aula\obj\Debug\net10.0\Aula01.csproj.CoreCompileInputs.cache
+C:\DevOps\dotnet-study\Aula\obj\Debug\net10.0\Aula01.sourcelink.json
+C:\DevOps\dotnet-study\Aula\obj\Debug\net10.0\Aula01.dll
+C:\DevOps\dotnet-study\Aula\obj\Debug\net10.0\refint\Aula01.dll
+C:\DevOps\dotnet-study\Aula\obj\Debug\net10.0\Aula01.pdb
+C:\DevOps\dotnet-study\Aula\obj\Debug\net10.0\Aula01.genruntimeconfig.cache
+C:\DevOps\dotnet-study\Aula\obj\Debug\net10.0\ref\Aula01.dll

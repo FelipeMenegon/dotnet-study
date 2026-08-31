@@ -4,13 +4,14 @@ public class Program
 {
     public static void Main()
     {
+        string[] fruits = { "Apple", "Banana", "Cherry", "Date" };
 
-        List<int> numberList = new List<int>(){
-            1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-        };
-        foreach (int n in numberList)
+        Console.WriteLine(fruits[0]);
+        Console.WriteLine("----------------------------");
+
+        foreach (string fruit in fruits)
         {
-            Console.WriteLine(n);
+            Console.WriteLine(fruit);
         }
     }
 }

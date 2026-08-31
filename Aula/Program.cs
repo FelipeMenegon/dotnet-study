@@ -4,19 +4,12 @@ public class Program
 {
     public static void Main()
     {
-        int number = 1;
+        int i = 0;
 
-        switch (number)
+        while (i <= 5)
         {
-            case 1:
-                Console.WriteLine("Number is 1");
-                break;
-            case 2:
-                Console.WriteLine("Number is 2");
-                break;
-            default: // Caso não seja 1 ou 2 - Tipo else
-                Console.WriteLine("Number is not 1 or 2");
-                break;
+            Console.WriteLine(i);
+            i++;
         }
     }
 }

@@ -14,6 +14,9 @@ public class Program
             case 2:
                 Console.WriteLine("Number is 2");
                 break;
+            default: // Caso não seja 1 ou 2 - Tipo else
+                Console.WriteLine("Number is not 1 or 2");
+                break;
         }
     }
 }

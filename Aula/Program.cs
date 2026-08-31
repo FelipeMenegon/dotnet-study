@@ -4,19 +4,16 @@ public class Program
 {
     public static void Main()
     {
+        int number = 1;
 
-        Console.WriteLine("Digite seu número: ");
-        int number = Convert.ToInt32(Console.ReadLine());
-
-        int result = number % 2;
-
-        if (result == 0)
+        switch (number)
         {
-            Console.WriteLine("O número é par.");
-        }
-        else
-        {
-            Console.WriteLine("O número é ímpar.");
+            case 1:
+                Console.WriteLine("Number is 1");
+                break;
+            case 2:
+                Console.WriteLine("Number is 2");
+                break;
         }
     }
 }

@@ -4,13 +4,19 @@ public class Program
 {
     public static void Main()
     {
-        int number = 10;
-        int number2 = 20;
 
-        int sum = number + number2;
-        int subtraction = number - number2;
-        int multiplication = number * number2;
-        int division = number / number2;
-        int module = number % number2;
+        Console.WriteLine("Digite seu número: ");
+        int number = Convert.ToInt32(Console.ReadLine());
+
+        int result = number % 2;
+
+        if (result == 0)
+        {
+            Console.WriteLine("O número é par.");
+        }
+        else
+        {
+            Console.WriteLine("O número é ímpar.");
+        }
     }
 }

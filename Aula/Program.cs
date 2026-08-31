@@ -4,12 +4,9 @@ public class Program
 {
     public static void Main()
     {
-        int i = 0;
-
-        while (i <= 5)
+        for (int i = 1; i <= 10; i++)
         {
             Console.WriteLine(i);
-            i++;
         }
     }
 }

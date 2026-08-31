@@ -4,14 +4,18 @@ public class Program
 {
     public static void Main()
     {
-        string[] fruits = { "Apple", "Banana", "Cherry", "Date" };
-
-        Console.WriteLine(fruits[0]);
-        Console.WriteLine("----------------------------");
-
-        foreach (string fruit in fruits)
+        List<string> fruits = new List<string>()
         {
-            Console.WriteLine(fruit);
-        }
+            "Apple",
+            "Banana",
+            "Cherry",
+            "Date",
+            "Elderberry"
+        };
+
+        Console.WriteLine(fruits[0]); // Output: Apple
+        fruits.Add("Fig");
+        Console.WriteLine(fruits[5]); // Output: Fig
+        fruits.Remove(fruits[1]); // Removes "Banana"
     }
 }
